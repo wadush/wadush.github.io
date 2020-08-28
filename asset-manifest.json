@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wadush/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/wadush/static/js/main.4772c2e6.chunk.js",
-    "main.js.map": "/wadush/static/js/main.4772c2e6.chunk.js.map",
+    "main.js": "/wadush/static/js/main.b45c0bf7.chunk.js",
+    "main.js.map": "/wadush/static/js/main.b45c0bf7.chunk.js.map",
     "runtime-main.js": "/wadush/static/js/runtime-main.d2fdbb2b.js",
     "runtime-main.js.map": "/wadush/static/js/runtime-main.d2fdbb2b.js.map",
     "static/js/2.237c139e.chunk.js": "/wadush/static/js/2.237c139e.chunk.js",
     "static/js/2.237c139e.chunk.js.map": "/wadush/static/js/2.237c139e.chunk.js.map",
     "index.html": "/wadush/index.html",
-    "precache-manifest.a1c1f98cc5f1368ba137ff8393e488a2.js": "/wadush/precache-manifest.a1c1f98cc5f1368ba137ff8393e488a2.js",
+    "precache-manifest.e2c665dbf902a523048e25f41728812e.js": "/wadush/precache-manifest.e2c665dbf902a523048e25f41728812e.js",
     "service-worker.js": "/wadush/service-worker.js",
     "static/css/main.eab24d3c.chunk.css.map": "/wadush/static/css/main.eab24d3c.chunk.css.map",
     "static/js/2.237c139e.chunk.js.LICENSE.txt": "/wadush/static/js/2.237c139e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d2fdbb2b.js",
     "static/js/2.237c139e.chunk.js",
     "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.4772c2e6.chunk.js"
+    "static/js/main.b45c0bf7.chunk.js"
   ]
 }

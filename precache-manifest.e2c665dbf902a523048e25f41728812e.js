@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c4f84bd5c6cff50c1c0c7c41cdd0c2b",
+    "revision": "c69a57c9a204331a8977abd16d1b9516",
     "url": "/wadush/index.html"
   },
   {
-    "revision": "f098c4e026432b251e40",
+    "revision": "ec77e63cca74bfb83adb",
     "url": "/wadush/static/css/main.eab24d3c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wadush/static/js/2.237c139e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f098c4e026432b251e40",
-    "url": "/wadush/static/js/main.4772c2e6.chunk.js"
+    "revision": "ec77e63cca74bfb83adb",
+    "url": "/wadush/static/js/main.b45c0bf7.chunk.js"
   },
   {
     "revision": "042939d947e6354ee7d8",
