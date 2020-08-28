@@ -6,14 +6,14 @@ function Home() {
   return (
     <section className="Home main-section">
       <h2>Hello World</h2>
-      <p>
+      <p className="p-home">
         My name is{" "}
         <Link className="Wadush" to="/about">
           Vadim
         </Link>
         , I am web developer.
       </p>
-      <p>Nice to meet you.</p>
+      <p className="p-home">Nice to meet you.</p>
 
       <Link className="call-to-action" to="/works">
         Works

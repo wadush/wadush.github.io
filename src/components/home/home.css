@@ -10,11 +10,17 @@
     color: goldenrod;
 }
 
+.p-home {
+    margin: 0;
+    padding: 5px 0;
+}
+
 .call-to-action {
     color: white;
     background-color: green;
     border: solid 1px green;
     max-width: fit-content;
+    margin: 20px 0;
     padding: 10px 20px;
     text-decoration: none;
     font-weight: bold;
