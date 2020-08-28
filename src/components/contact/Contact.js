@@ -3,7 +3,7 @@ import './contact.css';
 
 function Contact() {
   return (
-    <section className="Contact">
+    <section className="Contact main-section">
       <h2>Contact</h2>
     </section>
   );

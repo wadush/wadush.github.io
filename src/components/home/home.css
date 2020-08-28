@@ -1,3 +1,26 @@
 .Home {
-    color: yellow;
+    color: blue;
+}
+
+.Wadush {
+    color: blue;
+}
+
+.Wadush:hover {
+    color: goldenrod;
+}
+
+.call-to-action {
+    color: white;
+    background-color: green;
+    border: solid 1px green;
+    max-width: fit-content;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.call-to-action:hover {
+    background-color: purple;
+    border: solid 1px purple;
 }
