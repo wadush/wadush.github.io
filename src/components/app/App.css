@@ -12,6 +12,6 @@
 
 @media only screen and (max-width: 600px) {
   .main-section {
-    /* margin: 5px; */
+    margin: 0;
   }
 }

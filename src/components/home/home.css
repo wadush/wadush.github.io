@@ -1,12 +1,14 @@
 .Home {
   color: white;
-  background-image: url(../../assets/jeremy-bishop-GoEWA8YCQJ0-unsplash.jpg);
+  background-image: url(../../assets/jeremy-bishop-big.jpg);
   background-position: center center;
 }
 
 @media only screen and (max-width: 600px) {
   .Home {
-    margin: 100px auto;
+    margin: 100px auto 0;
+    background-image: url(../../assets/jeremy-bishop-small.jpg);
+    background-position: 100% 100%;
   }
 }
 
