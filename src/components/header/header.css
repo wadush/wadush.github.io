@@ -1,43 +1,58 @@
 .Header {
-    background-color: black;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Nav {
-    color: red;
+  color: red;
 }
 
 .ul-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .ul-nav {
+    flex-direction: column;
+  }
 }
 
 .li-nav {
-    margin: 0 20px;
+  margin: 0 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .li-nav {
+    margin: 15px auto;
+  }
 }
 
 h1 {
-    margin: 0;
-    padding: 0;
-    font-size: 18px;
-
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
 }
 
 .nav-link {
-    text-decoration: none;
-    font-weight: bold;
-    padding: 0 5px;
-    color: white;
-    font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 5px;
+  color: white;
+  font-size: 18px;
 }
 
 .nav-link:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }

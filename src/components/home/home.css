@@ -1,32 +1,59 @@
 .Home {
-    color: blue;
+  color: white;
+  background-image: url(../../assets/jeremy-bishop-GoEWA8YCQJ0-unsplash.jpg);
+  background-position: center center;
+}
+
+@media only screen and (max-width: 600px) {
+  .Home {
+    margin: 100px auto;
+  }
 }
 
 .Wadush {
-    color: blue;
+  color: white;
 }
 
 .Wadush:hover {
-    color: goldenrod;
+  color: rgb(138, 137, 133);
+}
+
+.h2-home {
+  font-size: 28px;
+  margin: 0;
+  padding: 5px 0;
 }
 
 .p-home {
-    margin: 0;
-    padding: 5px 0;
+  font-size: 18px;
+  margin: 0;
+  padding: 5px 0;
 }
 
 .call-to-action {
-    color: white;
-    background-color: green;
-    border: solid 1px green;
-    max-width: fit-content;
-    margin: 20px 0;
-    padding: 10px 20px;
-    text-decoration: none;
-    font-weight: bold;
+  color: white;
+  background-color: none;
+  border: solid 1px white;
+  max-width: fit-content;
+  margin: 20px 0;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .call-to-action:hover {
-    background-color: purple;
-    border: solid 1px purple;
+  background-color: rgb(138, 137, 133);
+  border: solid 1px rgb(138, 137, 133);
+}
+
+@media only screen and (max-width: 600px) {
+  .h2-home {
+    margin: 20px auto;
+  }
+  .p-home {
+    margin: 0 auto;
+  }
+  .call-to-action {
+    margin: 20px auto;
+  }
 }

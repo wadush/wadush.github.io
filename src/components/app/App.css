@@ -3,8 +3,8 @@
 }
 
 .main-section {
-  margin: 100px;
-  min-height: 50vh;
+  padding: 100px 60px;
+  height: 73.8vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -12,6 +12,6 @@
 
 @media only screen and (max-width: 600px) {
   .main-section {
-    margin: 5px;
+    /* margin: 5px; */
   }
 }
