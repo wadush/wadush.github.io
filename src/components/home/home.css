@@ -1,23 +1,24 @@
 .Home {
-  color: white;
-  background-image: url(../../assets/jeremy-bishop-big.jpg);
+  color: black;
+  background-image: url("../../assets/anthony-cantin-unsplash.jpg");
   background-position: center center;
+  background-size: 100% 100%;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .Home {
     margin: 100px auto 0;
     background-image: url(../../assets/jeremy-bishop-small.jpg);
     background-position: 100% 100%;
   }
-}
+} */
 
 .Wadush {
-  color: white;
+  color: black;
 }
 
 .Wadush:hover {
-  color: rgb(138, 137, 133);
+  color: blue;
 }
 
 .h2-home {
@@ -33,9 +34,9 @@
 }
 
 .call-to-action {
-  color: white;
+  color: black;
   background-color: none;
-  border: solid 1px white;
+  border: solid 1px black;
   max-width: fit-content;
   margin: 20px 0;
   padding: 10px 20px;
@@ -44,8 +45,9 @@
 }
 
 .call-to-action:hover {
-  background-color: rgb(138, 137, 133);
-  border: solid 1px rgb(138, 137, 133);
+  background-color: blue;
+  border: solid 1px blue;
+  color: white;
 }
 
 @media only screen and (max-width: 600px) {
